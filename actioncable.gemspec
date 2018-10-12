@@ -29,7 +29,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'mocha'
 
   s.files = Dir['README.md', 'lib/**/*']
-  s.has_rdoc = false
 
   s.require_path = 'lib'
 end
